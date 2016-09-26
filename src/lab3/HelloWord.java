@@ -18,6 +18,7 @@ public class HelloWord{
       System.out.println("Hello Word");
       System.out.println("yep yep");
        System.out.println("Hello Word hhh");
+       System.out.println("Finiiiii!!! ");
     }
     
 }
